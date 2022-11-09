@@ -1,0 +1,18 @@
+This year’s ACM SIGCOMM conference saw the first workshop on Future of Internet Routing and Addressing (FIRA) with a range of interesting papers that covered various routing-related problems and innovations. You can find the program of the workshop at https://conferences.sigcomm.org/sigcomm/2022/workshop-fira.html with links to all presentations given, including the keynotes. 
+
+One of the motivations for organizing the workshop was to bring various communities together that are interested in and driven by routing innovations. Naturally, the IETF is one of these communities, specifically those participating in the RTG WG and the routing area as a whole. 
+
+For this reason, we decided to organize a sidemeeting at the upcoming IETF115 to bring some of those research works to those interested and participating at the IETF. We have not limited our selection to the FIRA workshop only, as you will see below. 
+
+The side meeting will take place on Wednesday 9th, starting at around 6.15pm (to give people time to walk over) and will take place in Richmond 6. We plan on finishing at 7.45pm with the possibility to stay on until 8pm.
+
+On the side meeting wiki (at https://wiki.ietf.org/meeting/115/sidemeetings), you will find the meeting link information for remote participation. The meeting with be chaired by Prof. Jon Crowcroft (Cambridge University), one of our FIRA workshop SC chairs and long-term IETF contributors, as many of you know. 
+
+As for agenda, we have prepared the following for you:
+6.15pm – 6.20pm: Introduction and Motivation of the side meeting (Jon Crowcroft)
+6.20pm – 6-45pm: Hard Lessons for ICN from IP Multicast? (Jon Crowcroft), providing insights into lessons learned from IP multicast in order to move forward with new multicast solutions such as ICN. 
+6.45pm – 7.10pm: A first step towards checking BGP routes in the dataplane (Thomas Wirtgen, UC Louvain), suggesting dataplane methods for BGP route verification
+7.10pm – 7.35pm: On-path vs off-path traffic steering, that is the question (Dirk Trossen, Huawei), comparing the realization of compute-aware traffic steering method through off-path vs on-path solutions.
+7.35pm – 7.45pm: General Discussion
+
+Each presentation will be 20 minutes plus a 5 minutes slot for immediate questions, while we provide time after all presentation for discussion and questions across.
